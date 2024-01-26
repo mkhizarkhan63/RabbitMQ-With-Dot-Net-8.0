@@ -11,5 +11,8 @@ Command : This is rabbitmq image.
 
 start the container 
 
+----->>>>> docker run -d --name my-rabbit -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+
+
 I took reference from here
 https://www.c-sharpcorner.com/article/rabbitmq-message-queue-using-net-core-6-web-api/
