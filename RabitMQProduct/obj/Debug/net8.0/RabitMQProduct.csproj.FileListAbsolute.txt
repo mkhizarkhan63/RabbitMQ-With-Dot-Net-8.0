@@ -1,0 +1,17 @@
+D:\RabitMqProductAPI\RabitMQProduct\bin\Debug\net8.0\RabitMQProduct.exe
+D:\RabitMqProductAPI\RabitMQProduct\bin\Debug\net8.0\RabitMQProduct.deps.json
+D:\RabitMqProductAPI\RabitMQProduct\bin\Debug\net8.0\RabitMQProduct.runtimeconfig.json
+D:\RabitMqProductAPI\RabitMQProduct\bin\Debug\net8.0\RabitMQProduct.dll
+D:\RabitMqProductAPI\RabitMQProduct\bin\Debug\net8.0\RabitMQProduct.pdb
+D:\RabitMqProductAPI\RabitMQProduct\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.csproj.AssemblyReference.cache
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.AssemblyInfoInputs.cache
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.AssemblyInfo.cs
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.csproj.CoreCompileInputs.cache
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.csproj.CopyComplete
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.dll
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\refint\RabitMQProduct.dll
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.pdb
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\RabitMQProduct.genruntimeconfig.cache
+D:\RabitMqProductAPI\RabitMQProduct\obj\Debug\net8.0\ref\RabitMQProduct.dll
